@@ -14,7 +14,7 @@ courses = [
     {
         "id": 3,
         "name": "Understanding Misinformation",
-        "image": "misinformation.jpg",
+        "image": "awman.jpg",
         "desc": "Explore the different types of misinformation and their impact.",
     },
 ]
