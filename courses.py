@@ -4,7 +4,13 @@ courses = [
         "name": "Fact-Checking & Source Verification",
         "image": r"confirmation bias.jpg",
         "desc": "Master the techniques to critically evaluate information and confidently verify the authenticity of various sources.",
-        "context": "This course delves into practical strategies for identifying credible sources, understanding website domain analysis, cross-referencing information, and recognizing common fact-checking tools. You will learn to combat confirmation bias and develop a systematic approach to information evaluation. The course also covers the importance of source verification in the context of misinformation and disinformation, and how to apply these techniques in real-world scenarios. By the end of the course, you will be equipped with the skills to critically assess information and verify sources effectively.",
+        "context": [
+            "This course delves into practical strategies for identifying credible sources",
+            "And Understanding website domain analysis, cross-referencing information, and recognizing common fact-checking tools.",
+            "You will learn to combat confirmation bias and develop a systematic approach to information evaluation.",
+            "The course also covers the importance of source verification in the context of misinformation and disinformation, and how to apply these techniques in real-world scenarios.",
+            "By the end of the course, you will be equipped with the skills to critically assess information and verify sources effectively.",
+        ],
         "format": "Online, Self-paced",
         "prerequisites": "None",
         "topics": [
@@ -20,7 +26,12 @@ courses = [
         "name": "Health Fact/Fiction",
         "image": r"health-fact-fic.jpg",
         "desc": "Learn to identify and understand the misinformation and distorted narratives in the health domain.",
-        "context": "This course explores common types of health misinformation, including miracle cures, vaccine myths, and misleading dietary advice. You will learn to analyze health claims, identify biased sources, understand the role of scientific consensus, and develop strategies for discerning evidence-based health information. You will also explore the psychological and social factors that contribute to the spread of health misinformation, including cognitive biases and social media dynamics. By the end of the course, you will be equipped with the skills to critically evaluate health information and make informed decisions about your health.",
+        "context": [
+            "This course explores common types of health misinformation, including miracle cures, vaccine myths, and misleading dietary advice. ",
+            "You will learn to analyze health claims, identify biased sources, understand the role of scientific consensus, and develop strategies for discerning evidence-based health information. ",
+            "You will also explore the psychological and social factors that contribute to the spread of health misinformation, including cognitive biases and social media dynamics. ",
+            "By the end of the course, you will be equipped with the skills to critically evaluate health information and make informed decisions about your health.",
+        ],
         "format": "Online, Self-paced",
         "prerequisites": "None",
         "topics": [
@@ -36,7 +47,12 @@ courses = [
         "name": "Understanding Misinformation",
         "image": r"misinformation.jpg",
         "desc": "Explore the diverse categories of misinformation, analyze their societal impact, and discover potential strategies for mitigation.",
-        "context": "This course provides a comprehensive overview of misinformation, disinformation, and malinformation. You will examine the psychological and social factors that contribute to the spread of false information, analyze its impact on democracy and public health, and explore various approaches to counter misinformation, including education and technological solutions. The course also covers the role of social media in the dissemination of misinformation and the importance of media literacy in combating false narratives. By the end of the course, you will have a deeper understanding of misinformation and its implications for society, as well as practical strategies for addressing it.",
+        "context": [
+            "This course provides a comprehensive overview of misinformation, disinformation, and malinformation. ",
+            "You will examine the psychological and social factors that contribute to the spread of false information, analyze its impact on public health, and explore various approaches to counter misinformation.",
+            "The course also covers the role of social media in the dissemination of misinformation and the importance of media literacy in combating false narratives. ",
+            "By the end of the course, you will have a deeper understanding of misinformation and its implications for society, as well as practical strategies for addressing it.",
+        ],
         "format": "Online, Self-paced",
         "prerequisites": "None",
         "topics": [
