@@ -23,9 +23,9 @@ courses = [
     },
     {
         "id": 2,
-        "name": "Health Fact/Fiction",
+        "name": "Health Information Fact/Fiction",
         "image": r"health-fact-fic.jpg",
-        "desc": "Learn to identify and understand the misinformation and distorted narratives in the health domain.",
+        "desc": "Learn to identify, navigate and understand the misinformation and distorted narratives in the health domain ",
         "context": [
             "This course explores common types of health misinformation, including miracle cures, vaccine myths, and misleading dietary advice. ",
             "You will learn to analyze health claims, identify biased sources, understand the role of scientific consensus, and develop strategies for discerning evidence-based health information. ",
