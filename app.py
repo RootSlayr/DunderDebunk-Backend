@@ -3,9 +3,10 @@ from flask_cors import CORS
 from courses import courses  # Import the courses list from the courses.py file
 
 import quiz
-
+import fact_checker
 app = Flask(__name__)
 app.register_blueprint(quiz.quiz_bp, url_prefix="/quiz")
+app.register_blueprint(fact_checker.fact_checker_bp, url_prefix="/fact_checker")
 CORS(app)
 
 
